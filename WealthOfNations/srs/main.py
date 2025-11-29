@@ -6,6 +6,8 @@
 
 # just a test
 
+#just a test2
+
 from data_loader import load_worldbank_data
 from data_cleaning import clean_data
 from analysis import compute_statistics, summary_interpretation
